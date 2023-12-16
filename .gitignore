@@ -1,0 +1,5 @@
+# ignore ALL .log files
+*.ex4
+*.mq4
+*.mqproj
+*.DS_Store
